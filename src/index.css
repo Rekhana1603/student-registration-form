@@ -1,0 +1,12 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  /* font-family: "Platypi", serif; */
+  font-family: "Solway", serif;
+}
+
+.backgroundDiv{
+  background: linear-gradient(135deg, #9b59b6, #71b7e6);
+}
+
